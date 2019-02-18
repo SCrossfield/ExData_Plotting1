@@ -4,7 +4,7 @@ This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
+electric power consumption Data Set" which is available on
 the course web site:
 
 
@@ -33,9 +33,15 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+##Overview
+
+This repository holds four png plots (1-4) and corresponding R scripts for making these plots. Each R script starts by setting up a file and setting the working directory, then reading the above dataset into R. A subset for 1-2 February 2007 is then selected and a plot is created.
+
+The below information was provided by the Exploratory Data Analysis course leaders regarding this data and the assignment.
+
+
+
 ## Loading the data
-
-
 
 
 
