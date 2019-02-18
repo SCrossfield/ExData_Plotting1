@@ -33,9 +33,12 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-##Overview
+
+## Overview
+
 
 This repository holds four png plots (1-4) and corresponding R scripts for making these plots. Each R script starts by setting up a file and setting the working directory, then reading the above dataset into R. A subset for 1-2 February 2007 is then selected and a plot is created.
+
 
 The below information was provided by the Exploratory Data Analysis course leaders regarding this data and the assignment.
 
